@@ -1,16 +1,17 @@
 [tool.poetry]
 name = "certbot-dns-powerdns-bbr"
-version = "0.1.0"
+version = "0.1.2"
 description = "certbot PowerDNS Remote REST API Authenticator"
 authors = ["BugbearR <bugbearr@bugbearr.jp>"]
-homepage = "https://github.com/certbot-dns-powerdns-bbr"
-repository = "https://github.com/certbot-dns-powerdns-bbr"
+homepage = "https://github.com/bugbearr/certbot-dns-powerdns-bbr"
+repository = "https://github.com/bugbearr/certbot-dns-powerdns-bbr"
 license = "MIT"
 readme = "README.md"
 classifiers = [
     'Development Status :: 4 - Beta',
     'Environment :: Plugins',
     'Intended Audience :: System Administrators',
+    "License :: OSI Approved :: MIT License",
     'Operating System :: POSIX :: Linux',
     'Programming Language :: Python',
     'Programming Language :: Python :: 3',

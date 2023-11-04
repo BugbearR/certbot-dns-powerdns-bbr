@@ -20,6 +20,7 @@ touch /etc/letsencrypt/.secret/dns-powerdns-bbr.ini
 chmod 600 /etc/letsencrypt/.secret/dns-powerdns-bbr.ini
 ```
 
+/etc/letsencrypt/.secret/dns-powerdns-bbr.ini
 ```ini:/etc/letsencrypt/.secret/dns-powerdns-bbr.ini
 dns_powerdns_bbr_endpoint = http://localhost:8081
 dns_powerdns_bbr_server_id = localhost
